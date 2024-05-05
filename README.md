@@ -134,6 +134,7 @@
 |`www.dropbox.com`|✅️| **Unknown**|
 |`xpshort.com` + `push.bdnewsx.com` + `techymozo.com`|❌| **Unknown**|
 |`ziplinker.net`|✅️| **29-04-2024**|
+|`shareus.link`|✅️| **05-05-2024**|
 
 
 ### ***Scrape Sites***
